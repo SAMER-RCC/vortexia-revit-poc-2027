@@ -1,0 +1,34 @@
+# Vortexia Revit POC 2027 Solution
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34014.180
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vortexia.Core", "src\Vortexia.Core\Vortexia.Core.csproj", "{2D7B5E4F-8A1C-4E6F-9B2A-5C3D6E7F8A9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vortexia.Tests", "src\Vortexia.Tests\Vortexia.Tests.csproj", "{3E8C6F5D-9B2A-4E6F-9B2A-5C3D6E7F8A9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vortexia.Demo", "src\Vortexia.Demo\Vortexia.Demo.csproj", "{4F9D7G6E-0C3B-5F7G-0C3B-6D4E7F8G9A0C}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7B5E4F-8A1C-4E6F-9B2A-5C3D6E7F8A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7B5E4F-8A1C-4E6F-9B2A-5C3D6E7F8A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7B5E4F-8A1C-4E6F-9B2A-5C3D6E7F8A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7B5E4F-8A1C-4E6F-9B2A-5C3D6E7F8A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8C6F5D-9B2A-4E6F-9B2A-5C3D6E7F8A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8C6F5D-9B2A-4E6F-9B2A-5C3D6E7F8A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8C6F5D-9B2A-4E6F-9B2A-5C3D6E7F8A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8C6F5D-9B2A-4E6F-9B2A-5C3D6E7F8A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9D7G6E-0C3B-5F7G-0C3B-6D4E7F8G9A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9D7G6E-0C3B-5F7G-0C3B-6D4E7F8G9A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9D7G6E-0C3B-5F7G-0C3B-6D4E7F8G9A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9D7G6E-0C3B-5F7G-0C3B-6D4E7F8G9A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
