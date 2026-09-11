@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <Solutions>
+      <Solution Path="vortexia-revit-poc-2027.sln" />
+    </Solutions>
+  </PropertyGroup>
+</Project>
