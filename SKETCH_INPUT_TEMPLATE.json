@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "project_id": "PRJ-VORTEXIA-2027",
+  "origin_sketch": "SKETCH_0001_PRIME",
+  "input_text": "",
+  "user_prompt": "Describe your architectural vision in simple terms (e.g., 'A circular garden with solar panels', or 'House shaped like a brain').",
+  "constraints": [],
+  "priority_level": "HIGH",
+  "timestamp_utc": "2026-09-15T23:48:00Z",
+  "status": "PENDING",
+  "actions": [
+    {
+      "command": "VX_COMMAND",
+      "description": "Initiate system to generate architectural model from sketch input.",
+      "triggered_by": "SKETCH_0001_PRIME"
+    }
+  ],
+  "metadata": {
+    "author": "User Interface Team - Vortexia Revit POC 2027",
+    "engine_version": "VX-Engine v3.4-beta",
+    "environment": "Local Development (VS Code/Visual Studio)"
+  }
+}
